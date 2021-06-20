@@ -1,0 +1,1 @@
+INSERT INTO person (id,name,lastname) VALUES (100,'kelwin','payares');
